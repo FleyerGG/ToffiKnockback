@@ -1,0 +1,10 @@
+name: ToffiKnockback
+version: '${project.version}'
+main: ru.fleyer.toffiknockback.ToffiKnockback
+authors: [ Fleyer001 ]
+description: plugin kb
+commands:
+  kb:
+    description: cmd knockback
+    aliases:
+      - knockback
